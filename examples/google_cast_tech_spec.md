@@ -2,7 +2,7 @@
 Authors: Onyx Mueller\
 Team: My Awesome Team\
 Last Modified: 2021.07.19\
-Product Spec: https://link.to.product.spec\
+Product Spec: https://link.to.product.spec \
 JIRA Epic: https://link.to.jira.epic
 
 ## Table of Contents
