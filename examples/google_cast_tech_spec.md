@@ -42,16 +42,17 @@ Cast allows mobile & web apps to "cast" video content to Cast-ready devices such
 * Integration Amazon's Fling SDK.
 * Support for audio-only casting.
 
-## Plan
+## Implementation
 
 **Note: This section has purposely not been filled out.**
 
-Use this section to describe out how this feature will evolve from product/design specifications into a viable project/service/feature/etc. This should include things like:
+Use this section to describe out how this feature will evolve from product/design requirements into a viable project/service/feature/etc. This should include things like:
 
 * APIs/Data references and connections
 * Payload examples
 * Breakdown of how to “connect the dots” to in UI/designs
-* Platform-specific details
+* Recommended "game plan"
+* Platform-specific details (e.g., Web vs. Mobile vs. Connected)
 * Visual documentation
 
 This will most likely be the longest and most in-depth section of the spec.

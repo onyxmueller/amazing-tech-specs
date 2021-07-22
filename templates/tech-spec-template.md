@@ -44,14 +44,16 @@ This should drive information about positive intention, what this implementation
 
 This section should be used to help reduce scope creep, by dictating something you are intentionally *not* doing or solving with this specific specification. Consider listing these in bullet points.
 
-## Plan
+## Implementation
 
-Use this section to describe out how this feature will evolve from Product specifications into a viable feature. This should include:
+Use this section to describe out how this feature will evolve from product/design requirements into a viable project/service/feature/etc. This should include things like:
 
-* Feed references and connections
-  * Either reference the APIs in this repository, or define expectations for one-off API requirements
+* APIs/Data references and connections
+* Payload examples
+* Breakdown of how to “connect the dots” to in UI/designs
+* Recommended "game plan"
+* Platform-specific details (e.g., Web vs. Mobile vs. Connected)
 * Visual documentation
-* More technical specifications, or platform-specific details
 
 This will most likely be the longest and most in-depth section of the spec.
 
