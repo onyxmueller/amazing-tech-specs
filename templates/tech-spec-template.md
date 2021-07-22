@@ -55,10 +55,6 @@ Use this section to describe out how this feature will evolve from Product speci
 
 This will most likely be the longest and most in-depth section of the spec.
 
-## Data
-
-This section will define any data related needs and how to access them.
-
 ## Debug/Testing
 
 List any information and controls that would be useful to have in the Debug Menu.
