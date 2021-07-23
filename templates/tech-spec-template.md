@@ -1,4 +1,4 @@
-# PROJECT/SERVICE/FEATURE Specifications
+# PROJECT/FEATURE Specifications
 Authors: AUTHORS\
 Team: YOUR TEAM\
 Last Modified: DATE\
